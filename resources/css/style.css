@@ -1,0 +1,37 @@
+
+
+header {
+    font-family: Verdana;
+    font-weight: normal; 
+    font-size: 50px;
+    color: white;
+    align-content: center;
+}
+body {
+background-color: black;
+text-align: center;
+font-family: Verdana; 
+
+}
+
+.hyperlink {
+    color: Aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+.section {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.segment {
+    font-size: 21px;
+    color: gray;
+}
+
+.content {
+    text-align: right;
+    color: gray;
+}
